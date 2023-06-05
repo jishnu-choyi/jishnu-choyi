@@ -1,7 +1,6 @@
 👋 Hi, I’m @jishnu-choyi
-👀 I’m interested in three.js, angular, react, node & python
-🌱 I’m currently learning graphQL, WebXR, WebGPU
-💞️ I’m looking to collaborate on three.js projects
+👀 I’m interested in typescript, node & python
+🌱 I’m currently learning Next.js, graphQL, WebXR, WebGPU
 📫 How to reach me: c.jishnu@gmail.com
 
 <!---
