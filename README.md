@@ -1,6 +1,6 @@
 👋 Hi, I’m @jishnu-choyi
 👀 I’m interested in typescript, node & python
-🌱 I’m currently learning Next.js, graphQL, WebXR, WebGPU
+🌱 I’m currently learning WebXR
 📫 How to reach me: c.jishnu@gmail.com
 
 <!---
